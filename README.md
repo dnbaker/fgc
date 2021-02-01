@@ -1,4 +1,6 @@
-## Minocore: Fast Generic Coresets [![Build Status](https://travis-ci.com/dnbaker/minocore.svg?token=nzWL3kpck4ymqu9SdesD&branch=master)](https://travis-ci.com/dnbaker/minocore)
+## FGC: Fast Generic Coresets [![Build Status](https://travis-ci.com/dnbaker/minocore.svg?token=nzWL3kpck4ymqu9SdesD&branch=master)](https://travis-ci.com/dnbaker/minocore)
+
+This is a snapshot of the fgc/minicore project to match [the 2020 ICML paper](https://arxiv.org/pdf/1907.04733.pdf).
 
 Minocore is a fast, generic library for constructing and clustering coresets on graphs, in metric spaces and under non-metric dissimilarity measures.
 It includes methods for constant-factor and bicriteria approximation solutions, as well as coreset sampling algorithms.
